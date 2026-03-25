@@ -2,14 +2,14 @@
   <img src="Beige Feminine Personal LinkedIn Banner.png" alt="banner" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Sitora</h1>
-<h3 align="center">Future ML Engineer | Python & Java Learner</h3>
+<h1 align="center">Ciao, I'm Sitora</h1>
+<h3 align="center">AI/ML Engineer</h3>
 
 ---
 
 🌱 **Currently learning:**
 - Python 🐍
-- Java ☕
+- C ☕
 - Machine Learning 🤖
 
 💡 **Interests:**
